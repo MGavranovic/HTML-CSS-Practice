@@ -61,9 +61,7 @@
   height: 40px;
   width: 66px;
   background-color: rgb(247, 247, 247);
-  border-style: solid;
-  border-width: 1px;
-  border-color: rgb(204, 204, 204);
+  border: 1px solid rgb(204, 204, 204);
   margin-left: -2px;
   margin-right: 10px;
 }
